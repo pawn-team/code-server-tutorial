@@ -13,7 +13,7 @@
 
 **3° Passo:** Configurar senha de acesso
   - **Descrição:** Por segurança, Web VSCode exige senha de usuário para que ninguém possa invadir seus arquivos, a senha fica na frente da palavra-chave "password"
-  - **Comandos:** `nano ~/.config/code-server/config.yml`
+  - **Comandos:** `nano ~/.config/code-server/config.yaml`
 
 **4° Passo:** Iniciar o Web VSCode
   - **Descrição:** Isto vai fazer com que o editor esteja disponível para uso, e tambem abrir o navegador direto na tela de login.
